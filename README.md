@@ -1,3 +1,5 @@
+Hello, here I made some changes to improve my skills with this open source project!
+
 # Hotel-Website-Template
 
 Free to use website template,created from scratch using HTML and CSS
